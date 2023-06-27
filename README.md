@@ -1,5 +1,7 @@
 # KING_PONG
 
+Play pong, meet friends, chat with them, beat them :)
+
 To launch, run :
 
 $> docker-compose up --build
